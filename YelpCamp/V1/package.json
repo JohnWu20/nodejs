@@ -13,6 +13,6 @@
     "boostrap": "^2.0.0",
     "bootstrap": "^3.4.1",
     "ejs": "^2.6.2",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
